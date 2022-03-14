@@ -1,7 +1,7 @@
 
 public class StudentManager extends UserManager {
 	
-   /* @Override
+    @Override
     public void add(User user) {
         super.add(user);
     }
@@ -14,5 +14,5 @@ public class StudentManager extends UserManager {
     @Override
     public void update(User user) {
         super.update(user);
-    }*/
+    }
 }
